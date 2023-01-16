@@ -1,0 +1,26 @@
+th  {
+	padding: 10px;
+	width: auto;
+	height: 20px;
+	text-align: center;
+}
+
+table {
+	width: 100%;
+	background-size: cover;
+	border-collapse: collapse;
+}
+
+div#menu {
+	padding: 18px;
+	float: center;
+	width: auto;
+	background-color: #000000;
+	background-size: cover;
+}
+
+tbody {
+	width: 100%;
+	background-size: cover;
+	border-collapse: collapse;
+}

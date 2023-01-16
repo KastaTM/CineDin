@@ -1,0 +1,54 @@
+fieldset {
+	border: 1px solid black;
+	width: 20em;
+	margin: 0 auto;
+}
+
+legend {
+	color: #fff;
+	background: #303030;
+	border: 1px solid black;
+	padding: 2px 6px;
+} 
+
+label {
+	width: 15em;
+	text-align: left;
+	margin-right: 0.5em;
+	display: inline-block;
+}
+
+.boton {
+border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #2e518b; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
+ width: 110px; /* Para que no se rompa en dos líneas, y lo translade tal cual. */
+ margin-left: 35%;
+transform: translateX(-50%);
+}
+
+
+.boton_admin {
+border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #2e518b; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
+width: 110px; /* Para que no se rompa en dos líneas, y lo translade tal cual. */
+margin-left: 35%;
+transform: translateX(-50%);
+}
+
+.imagen_nivel{
+	float:none;
+	width: 10px;
+	height: 10px;
+}
